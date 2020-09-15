@@ -1,4 +1,10 @@
-﻿using System;
+﻿/// Tech Proj #2b: Conditionals Grade Prompt
+/// ISM 4300 
+/// University of South Florida
+/// Programmed by Lewis Morgan
+/// 
+
+using System;
 
 namespace TechProj2b
 {
